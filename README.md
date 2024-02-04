@@ -1,2 +1,2 @@
-# Curso_Desarrollo de Aplicaciones_Entrega2
+# Curso_Desarrollo de Aplicaciones
  CoderHouse Com53280
