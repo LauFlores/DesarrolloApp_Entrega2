@@ -1,17 +1,17 @@
-import React, { useState } from 'react';
+import { useState } from 'react'
 import { View, Text, TouchableOpacity, Modal, StyleSheet } from 'react-native';
 
 const ThemeOptions = ({ currentTheme, onSelectTheme }) => {
     const [modalVisible, setModalVisible] = useState(false);
 
     const themes = [
-        { label: 'Tema Verde', value: '#556B2F' }, //556B2F 
+        { label: 'Tema Verde', value: '#556B2F' },  
         { label: 'Tema Negro', value: '#000000' },
         { label: 'Tema Gris', value: '#808080' },
     ];
 
     const getTextColor = (theme) => {
-        return theme === '#FFFFFF' ? '#000000' : '#FFFFFF';
+        return theme === '#FFFFFF' ? '#000000' : '#FFFFFF'; // Si el tema de fondo es negro las letras son blancas.
     };
 
     return (

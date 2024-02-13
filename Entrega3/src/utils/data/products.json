@@ -1,0 +1,139 @@
+
+[
+  {
+    "id": 0,
+    "title": "  Paleta Bullpadel Axym",
+    "description": "Paleta Bullpadel Axym ...",
+    "price": 47,
+    "discountPercentage": 16,
+    "rating": 4.74,
+    "stock": 133,
+    "brand": "BULLPADEL",
+    "category": "BULLPADEL",
+    "thumbnail": "bullpadel_axym.jpg",
+    "images": [
+      "bullpadel_axym.jpg"
+    ]
+  },
+{
+    "id": 1,
+    "title": "  Paleta Bullpadel Hacker",
+    "description": "  Paleta Bullpadel Hacker ...",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "BULLPADEL",
+    "category": "BULLPADEL",
+    "thumbnail": "bullpadel_hacker.jpg",
+    "images": [
+      "bullpadel_hacker.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "  Paleta Bullpadel Ionic",
+    "description": "  Paleta Bullpadel Ionic ...",
+    "price": 899,
+    "discountPercentage": 17.94,
+    "rating": 4.44,
+    "stock": 34,
+    "brand": "BULLPADEL",
+    "category": "BULLPADEL",
+    "thumbnail": "bullpadel_ionic.jpg",
+    "images": [
+      "bullpadel_ionic.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "  Paleta Top Force Flanker",
+    "description": "  Paleta Top Force Flanker ...",
+    "price": 1749,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "TOP FORCE",
+    "category": "TOP FORCE",
+    "thumbnail": "topforce_flanker.jpg",
+    "images": [
+      "topforce_flanker.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "  Paleta Top Force Indra",
+    "description": "  Paleta Top Force Indra ...",
+    "price": 1499,
+    "discountPercentage": 4.15,
+    "rating": 4.25,
+    "stock": 50,
+    "brand": "TOP FORCE",
+    "category": "TOP FORCE",
+    "thumbnail": "topforce_indra.jpg",
+    "images": [
+      "topforce_indra.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "  Paleta Top Force Ottawa",
+    "description": "  Paleta Top Force Ottawa ...",
+    "price": 1499,
+    "discountPercentage": 10.23,
+    "rating": 4.43,
+    "stock": 68,
+    "brand": "TOP FORCE",
+    "category": "TOP FORCE",
+    "thumbnail": "topforce_ottawa.jpg",
+    "images": [
+      "topforce_ottawa.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "  Paleta Urich Padel Baffler",
+    "description": "  Paleta Urich Padel Baffler ...",
+    "price": 35,
+    "discountPercentage": 10.94,
+    "rating": 4.93,
+    "stock": 146,
+    "brand": "URICH PADEL",
+    "category": "URICH PADEL",
+    "thumbnail": "Urich_Baffler.jpg",
+    "images": [
+      "Urich_Baffler.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "  Paleta Urich Padel Deep",
+    "description": "  Paleta Urich Padel Deep ...",
+    "price": 34,
+    "discountPercentage": 5.92,
+    "rating": 4.99,
+    "stock": 44,
+    "brand": "URICH PADEL",
+    "category": "URICH PADEL",
+    "thumbnail": "Urich_Deep.jpg",
+    "images": [
+      "Urich_Deep.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "  Paleta Urich Padel Iron",
+    "description": "  Paleta Urich Padel Iron ...",
+    "price": 46,
+    "discountPercentage": 8.84,
+    "rating": 4.32,
+    "stock": 138,
+    "brand": "URICH PADEL",
+    "category": "URICH PADEL",
+    "thumbnail": "Urich_IRON.jpg",
+    "images": [
+      "Urich_IRON.jpg"
+    ]
+  }
+]
+
